@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Korotkevich Sasha[![MasterHead](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47jcfat5qdd9jf1qzh19nejk7h9lllkpk8eys4c781&ep=v1_gifs_search&rid=giphy.gif&ct=g)]</h1>
+<div align="center">
+  <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47jcfat5qdd9jf1qzh19nejk7h9lllkpk8eys4c781&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
+</div>
 <h1 align="center">Hi 👋, I'm Korotkevich Sasha</h1>
 <h3 align="center">A passionate Java developer from Belarus</h3>
 - 🌱 I’m currently learning **Spring**
